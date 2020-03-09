@@ -96,7 +96,7 @@ VALUES (1,1), (1,3), (1,4), (2, 1), (3, 11), (3, 12);
 
 ---
 ### Notes:
-Great job so far! My only sugestion would to be to map from the movies table. As you have it right now, the movie page will dsiplay each movie as many times as it is mentioned in the junction table (aka howevermany genres it has)
+Great job so far! My only sugestion would to be to map from the movies table for your main display page. As you have it right now, the movie page will dsiplay each movie as many times as it is mentioned in the junction table (aka howevermany genres it has)
 Notes on items above.
 
 ---
@@ -113,7 +113,7 @@ Notes on items above.
 ---
 ### Notes:
 
-Ad per usual we need to do more commits and comments. Otherwise, great work, you lok well on your way to the stretch goals. Nice work and it has been a pleasure to be your pod partner!
+Ad per usual we need to do more commits and comments. WE both alos need to update the database page with our SQL querries. Otherwise, great work, you look well on your way to the stretch goals. Nice work and it has been a pleasure to be your pod partner! Your patience, knowledge,  and even keeld attitude have been a huge resource to us this week. 
 
 ```
 
